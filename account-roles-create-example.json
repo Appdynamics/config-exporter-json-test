@@ -1,0 +1,7 @@
+{
+  "name": "NewTestRole",
+  "Description": "New_Test_Role",
+  "providerUniqueName": "NewTestRole",
+  "accountRoleIds": "[8]",
+  "securityProviderType": "INTERNAL"
+}
